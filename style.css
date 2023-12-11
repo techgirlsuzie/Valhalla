@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav{
+    display: flex;
+    background-color: rgb(107, 6, 107);
+}
+
+.minor{
+    height: 100vh;
+}
+
+.see{
+    margin-left: 650px;
+    margin-top: 30px;
+}
+
+.see ul a{
+    padding: 0px 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.see ul a:hover{
+    text-shadow: black;
+    color: #e9badf;
+    cursor: grabbing;
+}
+
+.shay{
+    margin-left: 15px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    color: white;
+}
+
+#feet{
+    width: 120px;
+    height: 35px;
+    border-radius: 30px;
+    background-color: white;
+    color: purple;
+}
+
+.sam{
+    margin-top: 100px;
+    background-color: rgb(129, 8, 129);
+    padding: 70px;
+    display: flex;
+}
+
+.spike{
+    margin-left: 30px;
+}
+
+.bot{
+    display: flex;
+    background: linear-gradient(to right,   rgb(107, 6, 107), #e9badf);
+
+}
+
+.gradient-box{
+    width: 1349px;
+    height: 150vh;
+    background: linear-gradient(to right,  rgb(107, 6, 107), #e9badf);
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    margin-top: 100px;
+}
+
+.bot ul li{
+    display: inline-block;
+    margin-left: 700px;
+    margin-top: 40px;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.set{
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.dee{
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    outline: purple;
+    border: none;
+    color: white;
+    background-color: purple;
+}
+ 
+.lee{
+    margin-top: 50px;
+}
+
+.pic{
+    width: 250px;
+    height: 250px;
+    border-radius: 40px;
+    margin-left: 50px;
+    
+}
+
+.pic:hover {
+    transform: scale(1.2);
+    transition: 1s;
+    font-size: 9000px;
+}
+
+.pick{
+    width: 250px;
+    height: 250px;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+
+.pick:hover {
+    transform: scale(1.2);
+    transition: 1s;
+    font-size: 9000px;
+}
+
+.picks{
+    width: 250px;
+    height: 250px;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+
+.picks:hover {
+    transform: scale(1.2);
+    transition: 1s;
+    font-size: 9000px;
+}
+
+.picked{
+    width: 250px;
+    height: 250px;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+
+.picked:hover {
+    transform: scale(1.2);
+    transition: 1s;
+    font-size: 9000px;
+}
+
+.nee{
+    width: 250px;
+    height: 250px;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+
+.nee:hover {
+    transform: scale(1.2);
+    transition: 1s;
+    font-size: 9000px;
+}
+
+.qee{
+    width: 250px;
+    height: 250px;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+
+.qee:hover {
+    transform: scale(1.2);
+    transition: 1s;
+    font-size: 9000px;
+}
+
+.kee{
+    width: 250px;
+    height: 250px;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+
+.kee:hover {
+    transform: scale(1.2);
+    transition: 1s;
+    font-size: 9000px;
+}
+
+
+.zee{
+    width: 250px;
+    height: 250px;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+
+.zee:hover {
+    transform: scale(1.2);
+    transition: 1s;
+    font-size: 9000px;
+}
+
+
+h3{
+    margin-left: 50px;
+}
